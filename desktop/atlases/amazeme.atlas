@@ -1,0 +1,449 @@
+
+amazeme.png
+size: 658,1017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+farewell
+  rotate: false
+  xy: 2, 2
+  size: 266, 500
+  orig: 266, 500
+  offset: 0, 0
+  index: -1
+farewellbg
+  rotate: false
+  xy: 654, 217
+  size: 4, 800
+  orig: 4, 800
+  offset: 0, 0
+  index: -1
+farewellsun
+  rotate: false
+  xy: 2, 504
+  size: 650, 513
+  orig: 650, 513
+  offset: 0, 0
+  index: -1
+
+amazeme2.png
+size: 848,870
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+loose
+  rotate: false
+  xy: 2, 171
+  size: 339, 699
+  orig: 339, 699
+  offset: 0, 0
+  index: -1
+spt
+  rotate: false
+  xy: 2, 2
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: 0
+spt
+  rotate: false
+  xy: 343, 703
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: 1
+spt
+  rotate: false
+  xy: 171, 2
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: 2
+spt
+  rotate: false
+  xy: 343, 534
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: 3
+spt
+  rotate: false
+  xy: 512, 703
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: 4
+spt
+  rotate: false
+  xy: 343, 365
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: 5
+spt
+  rotate: false
+  xy: 512, 534
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: 6
+spt
+  rotate: false
+  xy: 681, 703
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: 7
+spt
+  rotate: false
+  xy: 343, 196
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: 8
+spt
+  rotate: false
+  xy: 512, 365
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: 9
+
+amazeme3.png
+size: 924,716
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+story1
+  rotate: false
+  xy: 2, 2
+  size: 460, 714
+  orig: 460, 714
+  offset: 0, 0
+  index: -1
+story2
+  rotate: false
+  xy: 464, 2
+  size: 460, 714
+  orig: 460, 714
+  offset: 0, 0
+  index: -1
+
+amazeme4.png
+size: 462,716
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+story3
+  rotate: false
+  xy: 2, 2
+  size: 460, 714
+  orig: 460, 714
+  offset: 0, 0
+  index: -1
+
+amazeme5.png
+size: 1014,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgmenu
+  rotate: false
+  xy: 2, 2
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+bgslide
+  rotate: false
+  xy: 404, 222
+  size: 80, 80
+  split: 36, 36, 36, 36
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+bgslidex
+  rotate: false
+  xy: 2, 104
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+btnbgyellow
+  rotate: false
+  xy: 606, 424
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnlevelcompleted
+  rotate: false
+  xy: 404, 140
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnlevellocked
+  rotate: false
+  xy: 486, 222
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnlevelunlocked
+  rotate: false
+  xy: 606, 342
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnmenu
+  rotate: false
+  xy: 688, 424
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnmusicoff
+  rotate: false
+  xy: 404, 58
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnmusicon
+  rotate: false
+  xy: 486, 140
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnnext
+  rotate: false
+  xy: 688, 342
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnplay
+  rotate: false
+  xy: 770, 424
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnplaybig
+  rotate: false
+  xy: 404, 304
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnplaynext
+  rotate: false
+  xy: 486, 58
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnprev
+  rotate: false
+  xy: 770, 342
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnrestart
+  rotate: false
+  xy: 852, 424
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnsettings
+  rotate: false
+  xy: 852, 342
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnsoundoff
+  rotate: false
+  xy: 934, 424
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnsoundon
+  rotate: false
+  xy: 934, 342
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnstory
+  rotate: false
+  xy: 568, 222
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnvibrateoff
+  rotate: false
+  xy: 568, 140
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnvibrateon
+  rotate: false
+  xy: 568, 58
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+
+amazeme6.png
+size: 464,802
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 4, 800
+  orig: 4, 800
+  offset: 0, 0
+  index: -1
+bgnight
+  rotate: false
+  xy: 8, 2
+  size: 4, 800
+  orig: 4, 800
+  offset: 0, 0
+  index: -1
+btnpause
+  rotate: false
+  xy: 185, 452
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+cstones
+  rotate: false
+  xy: 185, 534
+  size: 131, 120
+  orig: 131, 120
+  offset: 0, 0
+  index: -1
+pears
+  rotate: false
+  xy: 14, 656
+  size: 450, 146
+  orig: 450, 146
+  offset: 0, 0
+  index: -1
+pig
+  rotate: false
+  xy: 14, 332
+  size: 169, 151
+  orig: 169, 151
+  offset: 0, 0
+  index: -1
+pigninja
+  rotate: false
+  xy: 14, 485
+  size: 169, 169
+  orig: 169, 169
+  offset: 0, 0
+  index: -1
+sun
+  rotate: false
+  xy: 14, 242
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
+
+amazeme7.png
+size: 906,871
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HPT
+  rotate: false
+  xy: 2, 2
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: 0
+HPT
+  rotate: false
+  xy: 401, 704
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: 1
+HPT
+  rotate: false
+  xy: 171, 2
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: 2
+HPT
+  rotate: false
+  xy: 401, 535
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: 3
+HPT
+  rotate: false
+  xy: 570, 704
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: 4
+HPT
+  rotate: false
+  xy: 401, 366
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: 5
+HPT
+  rotate: false
+  xy: 570, 535
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: 6
+HPT
+  rotate: false
+  xy: 739, 704
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: 7
+HPT
+  rotate: false
+  xy: 401, 197
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: 8
+HPT
+  rotate: false
+  xy: 570, 366
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: 9
+win
+  rotate: false
+  xy: 2, 171
+  size: 397, 700
+  orig: 397, 700
+  offset: 0, 0
+  index: -1
